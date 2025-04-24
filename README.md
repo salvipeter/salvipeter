@@ -30,7 +30,7 @@ First here are some of the projects that may be of general interest:
   Very compact grammar summaries for a few natural languages (in Hungarian).
   Currently includes Swahili, Indonesian and Persian.
 - [scanned-dictionary](https://github.com/salvipeter/scanned-dictionary/):
-  A webpage that shows a given page of a scanned dictionary.
+  A webpage that helps you search for a word in a scanned dictionary.
   Easily extensible (currently supporting R. S. McGregor's Hindi-English,
   H. Wehr's Arabic-English, M. Haas' Thai-English, 
   and the Aryanpur Concise Persian-English dictionaries).
