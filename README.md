@@ -172,6 +172,8 @@ This is by far the largest group, so it is divided further.
 
 ### Various fitting utilities
 
+- [conic-fit](https://github.com/salvipeter/conic-fit/):
+  Implicit conic fit on a polyline
 - [fit-sphere](https://github.com/salvipeter/fit-sphere/):
   Fitting a sphere with fixed radius on noisy data points.
 - [fit-test](https://github.com/salvipeter/fit-test/):
