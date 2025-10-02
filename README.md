@@ -233,16 +233,16 @@ This is by far the largest group, so it is divided further.
 
 - [advent](https://github.com/salvipeter/advent/):
   This is a meta-repo for my Advent of Code solutions, linking to the repositories below:
-  - [advent2015](https://github.com/salvipeter/advent2015/)
-  - [advent2016](https://github.com/salvipeter/advent2016/)
-  - [advent2017](https://github.com/salvipeter/advent2017/)
-  - [advent2018](https://github.com/salvipeter/advent2018/)
-  - [advent2019](https://github.com/salvipeter/advent2019/)
-  - [advent2020](https://github.com/salvipeter/advent2020/)
-  - [advent2021](https://github.com/salvipeter/advent2021/)
-  - [advent2022](https://github.com/salvipeter/advent2022/)
-  - [advent2023](https://github.com/salvipeter/advent2023/)
-  - [advent2024](https://github.com/salvipeter/advent2024/)
+  - [advent2015](https://github.com/salvipeter/advent2015/) (in Common Lisp)
+  - [advent2016](https://github.com/salvipeter/advent2016/) (mainly in Prolog)
+  - [advent2017](https://github.com/salvipeter/advent2017/) (in Standard ML)
+  - [advent2018](https://github.com/salvipeter/advent2018/) (in Common Lisp)
+  - [advent2019](https://github.com/salvipeter/advent2019/) (in Prolog)
+  - [advent2020](https://github.com/salvipeter/advent2020/) (mainly in Nim)
+  - [advent2021](https://github.com/salvipeter/advent2021/) (mainly in Standard ML)
+  - [advent2022](https://github.com/salvipeter/advent2022/) (mainly in AWK)
+  - [advent2023](https://github.com/salvipeter/advent2023/) (in Tcl)
+  - [advent2024](https://github.com/salvipeter/advent2024/) (in 25 different languages)
 - [aqua](https://github.com/salvipeter/aqua/):
   AquaQ Challenge Hub solutions
 - [icfp2014](https://github.com/salvipeter/icfp2014/):
@@ -260,6 +260,8 @@ This is by far the largest group, so it is divided further.
   A Scheme implementation of the SECD virtual machine, and a LispKit Lisp compiler
 - [ngaro-asm-x86](https://github.com/salvipeter/ngaro-asm-x86/):
   An x86 assembly implementation of the Ngaro Virtual Machine
+- [minivm](https://github.com/salvipeter/minivm/):
+  A minimal 8-bit virtual machine for didactic purposes
 
 ## Other Applications
 
